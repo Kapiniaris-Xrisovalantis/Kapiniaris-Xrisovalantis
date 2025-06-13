@@ -1,6 +1,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
 <h1 id="olá-bem-vindo-ao-meu-perfil-do-github">Hello👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=27&amp;center=false&amp;lines=I'm Val...;I'm 23 years old...;Graduated Computer Science from University of Peiraeus...">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=27&amp;center=false&amp;lines=I'm+Val...;I'm+23+years+old...;Graduated+Computer+Science+from+University+of+Peiraeus...">
+
  <p>- <i>introduction</i></p>
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right">
 <h2 id="️-sobre-mim">⚡🙋‍♂️</h2>
