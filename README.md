@@ -34,6 +34,5 @@
 <br>
 </div>
 <hr>
-<p>Credit: <a href="https://github.com/MarciaGabrielle">MarciaGabrielle</a>
-Last Edited on: 24/08/2023</p>
+Last Edited on: 13/6/2025</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"></div></div> 
